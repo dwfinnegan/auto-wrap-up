@@ -1,0 +1,13 @@
+{
+  "advancedHeader": [
+    {
+      "comp": "auto-wrap-up",
+      "properties": {
+        "darkMode": "$STORE.app.darkMode",
+        "taskSelected": "$STORE.agentContact.taskSelected",
+        "wrapupCodeId": "7f7409d1-e1ea-3881-896d-a09495e16a13"
+      },
+      "script": "https://some-storage-location.com/auto-wrap-up.js"
+    }
+  ]
+}
