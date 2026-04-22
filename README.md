@@ -2,7 +2,7 @@
 
 This project serves as an example of how to send an automated wrapup code with Webex Contact Center (WxCC) Agent Desktop when an interaction ends.
 
-## [Watch the Video: Auto-Wrap-Up]()
+## [Watch the Video: Auto-Wrap-Up](https://app.vidcast.io/share/cf06e68b-3fd1-4b8f-8dbb-965063052e03)
 
 Features:
   - Automatically wraps an interaction with the provided wrapup code
