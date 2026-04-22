@@ -8,9 +8,15 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
-*.local
+
+# Ignore everything in dist
+dist/*
+# Un-ignore the assets folder so Git can look inside
+!dist/assets/
+# Ignore everything inside assets
+dist/assets/*
+# Un-ignore ONLY the file you want to keep
+!dist/assets/auto-wrap-up.js
 
 # Editor directories and files
 .vscode/*
